@@ -1,1 +1,1 @@
-# Test API http://users.bugred.ru
+# Test API http://users.bugred.ru/
